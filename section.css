@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body,.navbar {
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fonts {
+    font-family: 'Silkscreen', cursive;
+}
+
+.navbar-brand {
+
+    font-size: 26px !important;
+}
+
+span {
+    color: green;
+    font-family: 'Silkscreen', cursive;
+
+}
+
+.fa-brands {
+    margin: 0px 10px;
+    font-size: 36px;
+}
+.fa-brands:hover{
+    font-size: 40px;
+    transition: .3s;
+}
+
+.fa-telegram {
+    color: #0088cc;
+}
+
+.fa-facebook {
+    color: #4267B2;
+}
+
+.fa-whatsapp {
+    color: #25D366;
+}
+
+.btn a {
+    text-decoration: none;
+    color: green;
+}
+
+.btn a:hover {
+    color: white;
+}
+
+.footer {
+    text-decoration: none;
+    color: #00000050;
+    font-family: 'Silkscreen', cursive;
+}
